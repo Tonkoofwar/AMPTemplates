@@ -1,0 +1,17 @@
+[
+    {
+        "ConfigFile": "server.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "admins.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "bans.txt",
+        "ConfigType": "",
+        "AutoMap": false
+    }
+]
